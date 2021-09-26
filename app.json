@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/gohomess/v2 home",
-  "repository": "https://github.com/gohomess/v2 home",
+  "website": "https://github.com/gohomess/v2-home",
+  "repository": "https://github.com/gohomess/v2-home",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
